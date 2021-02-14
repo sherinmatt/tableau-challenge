@@ -10,3 +10,8 @@
  * * 4 visualization
  * * static map
  * * 2 dashboards
+ 
+ 
+ 
+ # Inspiration
+ Rugers Bootcamp 
