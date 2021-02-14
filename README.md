@@ -1,6 +1,5 @@
 # tableau-challenge
-## Tableau link:
- Will be added in 24 hours
+## Tableau link: Will be added in 24 hours
  
  
  For this work, the dataset will be used from New York Citi Bank Program. Link : 
