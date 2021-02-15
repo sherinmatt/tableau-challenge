@@ -14,6 +14,7 @@
  * * 2 dashboards
  * * one story
  
+* Because of loading issues, only the first 500 datapoints were taken from the csv file for analysis so no major conclusions can be drawn. But there are trends that can be observed through the visualizations.
  
  
  # Inspiration
