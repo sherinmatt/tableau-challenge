@@ -1,6 +1,6 @@
 # tableau-challenge
 # Citibike Analysis
-## Trip Data Visualizations: Tableau Link Will be added in 24 hours
+## Trip Data Visualizations: [Tableau Link] (https://public.tableau.com/shared/8XZ94SJC5?:display_count=y&:origin=viz_share_link)
  
 ## Steps:
 
