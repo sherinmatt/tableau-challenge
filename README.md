@@ -10,9 +10,12 @@
      * Pandas
      * Tableau 
 
+   ## Data:
+     * Citi Bike Trip History Datasets: (https://www.citibikenyc.com/system-data)
+  
    ## Steps taken:
 
-     For this work, the dataset will be used from [New York Citi Bike data page](https://www.citibikenyc.com/system-data)
+     For this project, the dataset will be used from the New York Citi Bike data page.
      The specific citibike tripdata CSV used for this challenge is from year 01, 2019 (See jupyter notebook for more information about the data source).
 
     * In this challenge analysis of tripdata will take place:
